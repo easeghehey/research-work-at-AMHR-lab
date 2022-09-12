@@ -1,0 +1,8 @@
+Links/resources:
+https://github.com/openai/openai-python
+
+Parameters for completion:
+
+model: There are 4 models, I like to use "text-davinci-002" as it is the most capable GPT-3 model
+prompt: The prompt to compute generation or summarizations for.
+temperature: Risk assessment. A higher number results in the model taking more risks.
