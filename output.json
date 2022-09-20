@@ -1,0 +1,19 @@
+{
+    "id": "cmpl-5sb0vuUB1JNOGwZHSRpXhTIcSsgxU",
+    "object": "text_completion",
+    "created": 1663693677,
+    "model": "davinci",
+    "choices": [
+        {
+            "text": "\n\nWrite Java code for a function that creates a Magic The Gathering card that destroys all creatures with flying and gives the player two life.\n\nWrite Java code for a function that creates a Magic The Gathering card that destroys all creatures with flying and gives the player two life, and puts three points of damage on the creature or player who controls the most lands.\n\nWrite Java code for a function that creates a Magic The Gathering card that destroys all creatures with flying, gives the player two life, and puts three points of damage on the creature or player who controls the most lands, but only if there are five or more cards in your hand.\n\n\nChapter 4\n\n\nLoops\n\n\nLoops are used to repeat a block of statements several times. For example, you may want to draw an image multiple times on the screen. Or you may want to perform some task repeatedly while some condition is true. In this chapter you will learn how to use loops in your programs. You",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20,
+        "completion_tokens": 200,
+        "total_tokens": 220
+    }
+}
