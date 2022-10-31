@@ -1,19 +1,19 @@
 {
-    "id": "cmpl-5xmo4a0EG9gHLVfcCTWLdlXUx3aeG",
+    "id": "cmpl-5y4qDRz6Ox5HRN58TsGRH5zTDPScI",
     "object": "text_completion",
-    "created": 1664930648,
+    "created": 1664999973,
     "model": "davinci",
     "choices": [
         {
-            "text": " And what's your favorite color? I like blue. What do you like to play?\"\n\n\"I'm June and my favorite color is pink.\" She gave him a shy smile.\n\n\"That's a pretty name,\" he said. \"Do you want to play with me?\" He held out his hand, and she took it. The other kids were now gathering around them. Emanuel looked up at the teacher and said, \"Can we go outside?\"\n\nThe teacher nodded and they went outside where they played tag, hide-and-seek, and other games until it was time for lunch. After lunch the children sat in a circle on the floor while the teacher read them a story about animals who lived in the jungle. Emanuel sat next to June so that he could hold her hand as she listened intently to the story, but when it was time for nap he let go of her hand so that she could sleep like all the other children did. When naptime",
+            "text": ". He's been shot in the head. I'm so sorry.\"\n\nLogan's eyes flew open, and he tried to sit up. \"I'm not dying,\" he said weakly. He couldn't move much because of the straps holding him down, but he could see his friends and knew that they were there. They had come for him.\n\n\"Oh Logan,\" she cried as she knelt beside him on the bed and took his hand in hers. Tears streamed down her cheeks as she looked at him with a mixture of love, sadness and relief. She ran her hand through his hair and kissed his forehead softly before leaning over to kiss each of his closed eyelids gently one at a time, which caused Logan to smile slightly despite the pain coursing through his body. She then leaned forward again to kiss him on the lips tenderly as she whispered into his ear, \"I love you Logan.\" When she pulled back from him, they both wiped their tears away",
             "index": 0,
             "logprobs": null,
             "finish_reason": "length"
         }
     ],
     "usage": {
-        "prompt_tokens": 10,
+        "prompt_tokens": 4,
         "completion_tokens": 200,
-        "total_tokens": 210
+        "total_tokens": 204
     }
 }
