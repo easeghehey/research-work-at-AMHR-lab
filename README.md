@@ -4,7 +4,7 @@
 
 ### How to use:
 1. Clone repo
-2. Navigate to set\ cover/final
+2. Navigate to `set\ cover/final`
 3. Run `python3 setcover_ds.py` or `python3 setcover_num.py`
 
 ### How it works:
@@ -14,3 +14,7 @@ The program prompts the user for a dataset and a prompt, then the algorithm find
 
 setcover_num.py:
 Has an interface. Prompts user for universal set and for a number of subsets, then finds the optimal collection of subsets which altogether make the universal set.
+
+### Testing:
+
+If you navigate to `set\ cover/test` you can see the jupyter notebook which I used to come test the logic of the algorithm
