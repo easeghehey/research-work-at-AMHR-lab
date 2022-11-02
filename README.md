@@ -9,10 +9,10 @@
 
 ### How it works:
 
-*setcover_ds.py*:
+**setcover_ds.py**:
 The program prompts the user for a dataset and a prompt, then the algorithm finds the subsets that best match the prompt. Currently have it so that it finds coverage for the whole prompt but must change since that is not always guaranteed to happen. 
 
-*setcover_num.py*:
+**setcover_num.py**:
 Has an interface. Prompts user for universal set and for a number of subsets, then finds the optimal collection of subsets which altogether make the universal set.
 
 ### Testing:
